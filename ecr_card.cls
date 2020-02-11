@@ -58,7 +58,7 @@
 	\put(62,34){\includegraphics[height=18mm]{ecr_simple.eps}}
 	\put(4,24){\color{cdt_grey}\Large \textbf{#1}}
 	\put(4,20){\color{cdt_grey}\scriptsize #2}
-	\put(4,16.5){\color{cdt_grey}\scriptsize UKRI Centre for Doctoral Training in}
+	\put(4,16.5){\color{cdt_grey}\scriptsize EPSRC Centre for Doctoral Training in}
 	\put(4,14){\color{cdt_grey}\scriptsize Robotics and Autonomous Systems}
 	\put(4,9){\color{cdt_grey}\scriptsize #3}
 	\put(4,6.5){\color{cdt_grey}\scriptsize #4}
