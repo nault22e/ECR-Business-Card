@@ -65,8 +65,8 @@
 	\put(6,5){\color{cdt_grey}\scriptsize \textbf{www.edinburgh-robotics.org}}
 	
 	%%%%%%%%%%%%%
-	% Edit the height to change the dimensions of the qr code
-	% Keep in mind that the right edge should be in line with the ECR logo
+	% Edit the height to change the dimensions of the qr code. Edit (62.5, 4) to change the position
+	% ***Keep in mind that the right edge should be in line with the ECR logo & bottom should be in line with the bottom of the text***
 	\put(62.5,4){\includegraphics[height=0.669291in]{qrcode.eps}}
 	%%%%%%%%%%%%%
 	
