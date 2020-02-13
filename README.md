@@ -29,12 +29,18 @@ Edinburgh Centre for Robotics Business Card Instructions:
 
 7. If you want to change the size/placement of the qr code, adjust line 70 in the ecr_card.cls file
 
-	\put(65,3){\includegraphics[height=0.669291in]{qrcode.eps}}
+	\put(62.5,4){\includegraphics[height=0.669291in]{qrcode.eps}}
 
 	- to adjust the size, adjust the height variable
-	- to adjust the placement, adjust the numeric values (65,3)
-	
-	To see the changes, repeat steps 5 and 6
+	- to adjust the placement, adjust the numeric values (62.5,4)
+
+	**********************
+	Keep in mind: The right edge of the QR code should be in line with the right edge of
+	the EPS logo and the bottom should be in line with the bottom of the text, otherwise
+	it may get cut off.
+	**********************
+
+	To see the changes, repeat steps 5 and 6.
 
 Enjoy your beautiful business card ;)
 

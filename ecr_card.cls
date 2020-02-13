@@ -55,32 +55,32 @@
 % now what do you like to put in your ticket front part:
 \newcommand{\vcardfront}[4]{\ticket{%
 	% \def\temp{#5}\ifx\temp\empty
-	\put(62,34){\includegraphics[height=18mm]{ecr_simple.eps}}
-	\put(4,24){\color{cdt_grey}\Large \textbf{#1}}
-	\put(4,20){\color{cdt_grey}\scriptsize #2}
-	\put(4,16.5){\color{cdt_grey}\scriptsize EPSRC Centre for Doctoral Training in}
-	\put(4,14){\color{cdt_grey}\scriptsize Robotics and Autonomous Systems}
-	\put(4,9){\color{cdt_grey}\scriptsize #3}
-	\put(4,6.5){\color{cdt_grey}\scriptsize #4}
-	\put(4,4){\color{cdt_grey}\scriptsize \textbf{www.edinburgh-robotics.org}}
+	\put(60.5,32.5){\includegraphics[height=18mm]{ecr_simple.eps}}
+	\put(6,25){\color{cdt_grey}\Large \textbf{#1}}
+	\put(6,21){\color{cdt_grey}\scriptsize #2}
+	\put(6,17.5){\color{cdt_grey}\scriptsize EPSRC Centre for Doctoral Training in}
+	\put(6,15){\color{cdt_grey}\scriptsize Robotics and Autonomous Systems}
+	\put(6,10){\color{cdt_grey}\scriptsize #3}
+	\put(6,7.5){\color{cdt_grey}\scriptsize #4}
+	\put(6,5){\color{cdt_grey}\scriptsize \textbf{www.edinburgh-robotics.org}}
 	
 	%%%%%%%%%%%%%
 	% Edit the height to change the dimensions of the qr code
-	% Keep in mind that it should be smaller than the ECR logo
-	\put(65,3){\includegraphics[height=0.669291in]{qrcode.eps}}
+	% Keep in mind that the right edge should be in line with the ECR logo
+	\put(62.5,4){\includegraphics[height=0.669291in]{qrcode.eps}}
 	%%%%%%%%%%%%%
 	
 }}
 % Back part of the card
 \newcommand{\vcardback}[0]{\ticket{%
-	\put(4,16){\includegraphics[height=23mm]{ecr.eps}}
+	\put(6,16){\includegraphics[height=23mm]{ecr.eps}}
 	\put(28,12){
 		\begin{picture}(1,1)
-			\put(0,0){\color{cdt_grey}\line(0,1){31}}
+			\put(0.75,0){\color{cdt_grey}\line(0,1){31}}
 		\end{picture}
 	}
-	\put(32,17){\includegraphics[height=19mm]{uoe.eps}}
-	\put(59,21){\includegraphics[height=11mm]{hwu.eps}}
+	\put(31.5,17){\includegraphics[height=19mm]{uoe.eps}}
+	\put(57.5,21){\includegraphics[height=11mm]{hwu.eps}}
 }}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
