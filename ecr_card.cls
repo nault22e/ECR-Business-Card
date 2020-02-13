@@ -80,7 +80,7 @@
 		\end{picture}
 	}
 	\put(31.5,21){\includegraphics[height=11mm]{hwu.eps}}
-	\put(57.5,17){\includegraphics[height=19mm]{uoe.eps}}
+	\put(56,17){\includegraphics[height=19mm]{uoe.eps}}
 }}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
