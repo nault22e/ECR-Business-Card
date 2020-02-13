@@ -79,8 +79,8 @@
 			\put(0.75,0){\color{cdt_grey}\line(0,1){31}}
 		\end{picture}
 	}
-	\put(31.5,17){\includegraphics[height=19mm]{uoe.eps}}
-	\put(57.5,21){\includegraphics[height=11mm]{hwu.eps}}
+	\put(31.5,17){\includegraphics[height=19mm]{hwu.eps}}
+	\put(57.5,21){\includegraphics[height=11mm]{uoe.eps}}
 }}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
