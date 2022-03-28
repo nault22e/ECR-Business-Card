@@ -13,7 +13,7 @@ Edinburgh Centre for Robotics Business Card Instructions:
 
 	3b. Download a JPG or PNG of your QR code
 
-	3c. Because the image needs to be of type .eps, use an online JPG/PNG to EPS converter (i.e. https://image.online-convert.com/convert-to-eps)
+	3c. Because the image needs to be of type .eps, use an online JPG/PNG to EPS converter (e.g., https://image.online-convert.com/convert-to-eps)
 
 	3d. Download the eps file and rename it too qrcode.eps
 	
