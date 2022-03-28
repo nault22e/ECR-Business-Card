@@ -9,7 +9,7 @@ Edinburgh Centre for Robotics Business Card Instructions:
 3. IF you want to add a QR code to your page on the ECR website:
 
 	3a. Use an online QR converter and create a QR code of your ECR profile 
-	(i.e. shorturl.at/adluN)
+	(e.g., shorturl.at/adluN)
 
 	3b. Download a JPG or PNG of your QR code
 
